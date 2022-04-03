@@ -1,0 +1,67 @@
+<!DOCTYPE html> 
+<html>
+      <head>
+        <meta charset="utf-8">
+        <title>Popular Faces in RB</title>
+        <style>
+            body{
+              background: rgb(255, 255, 255);
+            }
+            h1{
+              color:red;
+              text-shadow: -2px 2px white;
+            }
+            h2{
+              color: blue;
+              text-shadow: -1px 1px white;
+            }
+            h3{
+              color:crimson;
+              text-shadow: -1px 1px white;
+            }
+            h4{
+              color: darkgreen;
+              font-family: cursive;
+            }
+            p{
+              color: rgb(0, 0, 0);
+              font-family: cursive;
+            }
+            li{
+              color: aliceblue;
+              font-family: sans-serif;
+            }
+                    </style>
+    </head>
+    <body>
+      <h1>Popular Faces in RB</h1>
+
+      <h2>Part 1: The Winning Smile</h2>
+      <img src="https://static.wikia.nocookie.net/roblox/images/e/e7/Winning_smile.png"/>
+
+      <p> This face is associated with new players. It symbolizes the winning mentality in their bones  </p>
+
+      <h2>Part 2: The Man Face</h2>
+
+      <img src="https://static.wikia.nocookie.net/roblox/images/f/fe/Womanface.png/"/>
+     
+      <p> Originally called the Johnny Face, this face has been associated with scammers and trolls but has become an icon for memes.</p>
+     
+      <h2>Part 3: Chill </h2>
+     
+      <img src="https://static.wikia.nocookie.net/roblox/images/7/7b/Chill.png/"/>
+      
+      <p> This is the first face ever released and became popular due to its meme status. The face is associated with sweats. </p>
+      
+      <h2>Part 4: Smile </h2>
+
+      <img src="https://static.wikia.nocookie.net/roblox/images/f/fd/Smile%3F.png/"/>
+
+      <p> This is the default face for everyone. People who wear this face are usually new or don't care about changing their avatar. </p>
+
+      <h2>Part 5: Silly Fun </h2>
+      
+      <img src="https://static.wikia.nocookie.net/roblox/images/8/85/Sillynoobs.png/"/>
+
+      <p> This is the most popular of all mainly because of its tongue and name. People who wear this face usually play the game for fun. </p>
+
